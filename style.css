@@ -1,0 +1,43 @@
+body {
+  background-color: mistyrose;
+  margin-left: 150px;
+  margin-right: 200px;
+}
+
+h1 {
+  font-family: cursive;
+  font: 700px;
+  text-align: center;
+  padding-bottom: unset;
+}
+
+h3 {
+  font-family: cursive;
+  text-align: center;
+}
+
+h4 {
+  text-align: center;
+}
+
+ul {
+  margin: 20px 200px 20px 250px;
+}
+
+fieldset {
+  color: royalblue;
+  font-weight: bold;
+  border: unset;
+  border-radius: 15px;
+  margin-left: 150px;
+  background-color: white;
+}
+
+legend {
+  font-family: cursive;
+}
+
+img {
+  margin-bottom: 10px;
+  border-radius: 15px;
+}
