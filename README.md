@@ -1,2 +1,1 @@
-# review-project
-Reviewing code from a trials project
+#Bootstrap Version of the Portfolio Project
